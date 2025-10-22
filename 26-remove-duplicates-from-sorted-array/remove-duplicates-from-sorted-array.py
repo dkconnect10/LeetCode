@@ -7,3 +7,4 @@ class Solution(object):
                 
         nums[:]=flist
         return len(nums)
+        
