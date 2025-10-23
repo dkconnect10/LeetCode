@@ -5,3 +5,4 @@ class Solution(object):
                 if nums[j]>nums[j+1]:
                     nums[j],nums[j+1]=nums[j+1],nums[j]
         return nums
+        
