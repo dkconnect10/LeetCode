@@ -1,10 +1,8 @@
-class Solution(object):
+class Solution:
     def removeDuplicates(self, nums):
-        flist = []
+        temp = []
         for i in range(len(nums)):
-            if nums[i] not in flist:
-                flist.append(nums[i])
-                
-        nums[:]=flist
+            if nums[i] not in temp:
+                temp.append(nums[i])
+        nums[:]=temp
         return len(nums)
-        
