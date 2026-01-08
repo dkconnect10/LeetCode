@@ -7,11 +7,13 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dkconnect10/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/dkconnect10/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dkconnect10/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dkconnect10/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -20,6 +22,7 @@ This is my Leetcode Problem solving code repo
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dkconnect10/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
