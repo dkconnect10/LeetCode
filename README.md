@@ -7,6 +7,7 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dkconnect10/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/dkconnect10/LeetCode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dkconnect10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/dkconnect10/LeetCode/tree/master/0704-binary-search) |
@@ -29,6 +30,7 @@ This is my Leetcode Problem solving code repo
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dkconnect10/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/dkconnect10/LeetCode/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
