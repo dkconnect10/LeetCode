@@ -15,6 +15,7 @@ This is my Leetcode Problem solving code repo
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dkconnect10/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/dkconnect10/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ This is my Leetcode Problem solving code repo
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dkconnect10/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/dkconnect10/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
