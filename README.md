@@ -7,6 +7,7 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dkconnect10/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/dkconnect10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dkconnect10/LeetCode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
@@ -28,6 +29,7 @@ This is my Leetcode Problem solving code repo
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dkconnect10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/dkconnect10/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -62,4 +64,8 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dkconnect10/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
