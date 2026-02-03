@@ -27,6 +27,7 @@ This is my Leetcode Problem solving code repo
 | [0242-valid-anagram](https://github.com/dkconnect10/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ This is my Leetcode Problem solving code repo
 | [0242-valid-anagram](https://github.com/dkconnect10/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dkconnect10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/dkconnect10/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dkconnect10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
@@ -44,6 +46,7 @@ This is my Leetcode Problem solving code repo
 | [0242-valid-anagram](https://github.com/dkconnect10/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +87,16 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/dkconnect10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
