@@ -21,6 +21,7 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dkconnect10/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/dkconnect10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dkconnect10/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -31,6 +32,7 @@ This is my Leetcode Problem solving code repo
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dkconnect10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/dkconnect10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dkconnect10/LeetCode/tree/master/0242-valid-anagram) |
@@ -65,6 +67,7 @@ This is my Leetcode Problem solving code repo
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
