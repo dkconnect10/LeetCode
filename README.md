@@ -22,6 +22,7 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0001-two-sum](https://github.com/dkconnect10/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/dkconnect10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dkconnect10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/dkconnect10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
@@ -78,6 +79,7 @@ This is my Leetcode Problem solving code repo
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/dkconnect10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dkconnect10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/dkconnect10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -110,5 +112,6 @@ This is my Leetcode Problem solving code repo
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/dkconnect10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dkconnect10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
