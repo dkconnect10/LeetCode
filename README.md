@@ -11,6 +11,7 @@ This is my Leetcode Problem solving code repo
 | [0033-search-in-rotated-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dkconnect10/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/dkconnect10/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dkconnect10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
@@ -76,6 +77,7 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0002-add-two-numbers](https://github.com/dkconnect10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/dkconnect10/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -88,6 +90,7 @@ This is my Leetcode Problem solving code repo
 | [0088-merge-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/dkconnect10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dkconnect10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/dkconnect10/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dkconnect10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dkconnect10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
