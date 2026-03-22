@@ -36,6 +36,7 @@ This is my Leetcode Problem solving code repo
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dkconnect10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/dkconnect10/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dkconnect10/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -86,6 +87,7 @@ This is my Leetcode Problem solving code repo
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dkconnect10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dkconnect10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/dkconnect10/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -147,4 +149,8 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0278-first-bad-version](https://github.com/dkconnect10/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/dkconnect10/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dkconnect10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
