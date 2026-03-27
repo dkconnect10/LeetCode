@@ -44,6 +44,7 @@ This is my Leetcode Problem solving code repo
 | [0242-valid-anagram](https://github.com/dkconnect10/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dkconnect10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/dkconnect10/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/dkconnect10/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dkconnect10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -83,6 +84,7 @@ This is my Leetcode Problem solving code repo
 | [0231-power-of-two](https://github.com/dkconnect10/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/dkconnect10/LeetCode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/dkconnect10/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/dkconnect10/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
@@ -161,4 +163,8 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dkconnect10/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/dkconnect10/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
