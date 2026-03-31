@@ -19,6 +19,7 @@ This is my Leetcode Problem solving code repo
 | [0540-single-element-in-a-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dkconnect10/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dkconnect10/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ This is my Leetcode Problem solving code repo
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
 | ------- |
