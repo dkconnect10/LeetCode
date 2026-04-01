@@ -27,6 +27,7 @@ This is my Leetcode Problem solving code repo
 | [0013-roman-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/dkconnect10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dkconnect10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/dkconnect10/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/dkconnect10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dkconnect10/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -83,6 +84,7 @@ This is my Leetcode Problem solving code repo
 | [0002-add-two-numbers](https://github.com/dkconnect10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/dkconnect10/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dkconnect10/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/dkconnect10/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/dkconnect10/LeetCode/tree/master/0326-power-of-three) |
@@ -105,6 +107,7 @@ This is my Leetcode Problem solving code repo
 | [0141-linked-list-cycle](https://github.com/dkconnect10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dkconnect10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/dkconnect10/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dkconnect10/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dkconnect10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dkconnect10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
