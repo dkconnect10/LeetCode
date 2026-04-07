@@ -11,6 +11,7 @@ This is my Leetcode Problem solving code repo
 | [0033-search-in-rotated-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dkconnect10/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/dkconnect10/LeetCode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/dkconnect10/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dkconnect10/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -94,6 +95,7 @@ This is my Leetcode Problem solving code repo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/dkconnect10/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/dkconnect10/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dkconnect10/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -177,4 +179,8 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0412-fizz-buzz](https://github.com/dkconnect10/LeetCode/tree/master/0412-fizz-buzz) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dkconnect10/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/dkconnect10/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
