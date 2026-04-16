@@ -34,6 +34,7 @@ This is my Leetcode Problem solving code repo
 | [0219-contains-duplicate-ii](https://github.com/dkconnect10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/dkconnect10/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/dkconnect10/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -46,6 +47,7 @@ This is my Leetcode Problem solving code repo
 | [0014-longest-common-prefix](https://github.com/dkconnect10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/dkconnect10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dkconnect10/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/dkconnect10/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dkconnect10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/dkconnect10/LeetCode/tree/master/0412-fizz-buzz) |
