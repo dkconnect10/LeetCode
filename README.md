@@ -40,6 +40,7 @@ This is my Leetcode Problem solving code repo
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/dkconnect10/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -55,6 +56,7 @@ This is my Leetcode Problem solving code repo
 | [0290-word-pattern](https://github.com/dkconnect10/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dkconnect10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/dkconnect10/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/dkconnect10/LeetCode/tree/master/0796-rotate-string) |
@@ -150,6 +152,7 @@ This is my Leetcode Problem solving code repo
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Linked List
@@ -204,4 +207,8 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
