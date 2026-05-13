@@ -105,6 +105,7 @@ This is my Leetcode Problem solving code repo
 | [0326-power-of-three](https://github.com/dkconnect10/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/dkconnect10/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/dkconnect10/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dkconnect10/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -112,6 +113,7 @@ This is my Leetcode Problem solving code repo
 | [0090-subsets-ii](https://github.com/dkconnect10/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/dkconnect10/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dkconnect10/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
