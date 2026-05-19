@@ -112,6 +112,7 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/dkconnect10/LeetCode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/dkconnect10/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dkconnect10/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -221,4 +222,8 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/dkconnect10/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
