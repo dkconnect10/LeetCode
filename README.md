@@ -105,6 +105,7 @@ This is my Leetcode Problem solving code repo
 | [0326-power-of-three](https://github.com/dkconnect10/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/dkconnect10/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/dkconnect10/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dkconnect10/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -173,6 +174,7 @@ This is my Leetcode Problem solving code repo
 | [0142-linked-list-cycle-ii](https://github.com/dkconnect10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/dkconnect10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dkconnect10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dkconnect10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
