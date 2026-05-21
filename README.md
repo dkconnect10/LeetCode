@@ -14,6 +14,7 @@ This is my Leetcode Problem solving code repo
 | [0040-combination-sum-ii](https://github.com/dkconnect10/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/dkconnect10/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/dkconnect10/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/dkconnect10/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/dkconnect10/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/dkconnect10/LeetCode/tree/master/0217-contains-duplicate) |
@@ -112,6 +113,7 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/dkconnect10/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/dkconnect10/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dkconnect10/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dkconnect10/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
