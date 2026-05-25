@@ -149,6 +149,7 @@ This is my Leetcode Problem solving code repo
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dkconnect10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dkconnect10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/dkconnect10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dkconnect10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -224,9 +225,14 @@ This is my Leetcode Problem solving code repo
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dkconnect10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/dkconnect10/LeetCode/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dkconnect10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
