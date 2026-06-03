@@ -12,6 +12,7 @@ This is my Leetcode Problem solving code repo
 | [0035-search-insert-position](https://github.com/dkconnect10/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/dkconnect10/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dkconnect10/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0074-search-a-2d-matrix](https://github.com/dkconnect10/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/dkconnect10/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/dkconnect10/LeetCode/tree/master/0136-single-number) |
@@ -81,6 +82,7 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dkconnect10/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/dkconnect10/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dkconnect10/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -238,4 +240,8 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dkconnect10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dkconnect10/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/dkconnect10/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
