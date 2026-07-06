@@ -46,6 +46,7 @@ This is my Leetcode Problem solving code repo
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dkconnect10/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
@@ -68,6 +69,7 @@ This is my Leetcode Problem solving code repo
 | [0796-rotate-string](https://github.com/dkconnect10/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dkconnect10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dkconnect10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dkconnect10/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +98,7 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dkconnect10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/dkconnect10/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dkconnect10/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +173,7 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dkconnect10/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
