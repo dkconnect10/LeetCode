@@ -25,6 +25,7 @@ This is my Leetcode Problem solving code repo
 | [0540-single-element-in-a-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dkconnect10/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dkconnect10/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/dkconnect10/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
