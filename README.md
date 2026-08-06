@@ -26,6 +26,7 @@ This is my Leetcode Problem solving code repo
 | [0540-single-element-in-a-sorted-array](https://github.com/dkconnect10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dkconnect10/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dkconnect10/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/dkconnect10/LeetCode/tree/master/1046-last-stone-weight) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dkconnect10/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -84,6 +85,7 @@ This is my Leetcode Problem solving code repo
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dkconnect10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ This is my Leetcode Problem solving code repo
 | [0326-power-of-three](https://github.com/dkconnect10/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/dkconnect10/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/dkconnect10/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dkconnect10/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dkconnect10/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -171,6 +174,7 @@ This is my Leetcode Problem solving code repo
 | [0215-kth-largest-element-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dkconnect10/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/dkconnect10/LeetCode/tree/master/1046-last-stone-weight) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
@@ -249,6 +253,7 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0191-number-of-1-bits](https://github.com/dkconnect10/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -263,6 +268,7 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -279,4 +285,12 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dkconnect10/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
