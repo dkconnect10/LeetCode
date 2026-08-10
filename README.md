@@ -171,6 +171,7 @@ This is my Leetcode Problem solving code repo
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dkconnect10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dkconnect10/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -194,6 +195,7 @@ This is my Leetcode Problem solving code repo
 | [0002-add-two-numbers](https://github.com/dkconnect10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dkconnect10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/dkconnect10/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/dkconnect10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/dkconnect10/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/dkconnect10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dkconnect10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -251,6 +253,7 @@ This is my Leetcode Problem solving code repo
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dkconnect10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/dkconnect10/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -293,4 +296,12 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dkconnect10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dkconnect10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
