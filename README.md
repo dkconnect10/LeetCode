@@ -29,6 +29,7 @@ This is my Leetcode Problem solving code repo
 | [0875-koko-eating-bananas](https://github.com/dkconnect10/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/dkconnect10/LeetCode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dkconnect10/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -89,6 +90,7 @@ This is my Leetcode Problem solving code repo
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/dkconnect10/LeetCode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ This is my Leetcode Problem solving code repo
 | [0633-sum-of-square-numbers](https://github.com/dkconnect10/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/dkconnect10/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dkconnect10/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,6 +186,7 @@ This is my Leetcode Problem solving code repo
 | [0703-kth-largest-element-in-a-stream](https://github.com/dkconnect10/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/dkconnect10/LeetCode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
@@ -274,6 +278,7 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dkconnect10/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
