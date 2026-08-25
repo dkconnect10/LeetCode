@@ -32,6 +32,7 @@ This is my Leetcode Problem solving code repo
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dkconnect10/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/dkconnect10/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -93,6 +94,7 @@ This is my Leetcode Problem solving code repo
 | [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/dkconnect10/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ This is my Leetcode Problem solving code repo
 | [1046-last-stone-weight](https://github.com/dkconnect10/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/dkconnect10/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
@@ -239,6 +242,7 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/dkconnect10/LeetCode/tree/master/0412-fizz-buzz) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/dkconnect10/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dkconnect10/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
@@ -282,6 +286,7 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dkconnect10/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/dkconnect10/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Quickselect
 |  |
 | ------- |
