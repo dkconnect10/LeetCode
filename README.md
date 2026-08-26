@@ -32,6 +32,7 @@ This is my Leetcode Problem solving code repo
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dkconnect10/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dkconnect10/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/dkconnect10/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/dkconnect10/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/dkconnect10/LeetCode/tree/master/2974-minimum-number-game) |
@@ -57,6 +58,7 @@ This is my Leetcode Problem solving code repo
 | [0387-first-unique-character-in-a-string](https://github.com/dkconnect10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dkconnect10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dkconnect10/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dkconnect10/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkconnect10/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3866-first-unique-even-element](https://github.com/dkconnect10/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
@@ -96,6 +98,7 @@ This is my Leetcode Problem solving code repo
 | [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dkconnect10/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/dkconnect10/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/dkconnect10/LeetCode/tree/master/2974-minimum-number-game) |
 ## Binary Search
@@ -195,6 +198,7 @@ This is my Leetcode Problem solving code repo
 | [1046-last-stone-weight](https://github.com/dkconnect10/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dkconnect10/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/dkconnect10/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/dkconnect10/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/dkconnect10/LeetCode/tree/master/2974-minimum-number-game) |
