@@ -336,4 +336,8 @@ This is my Leetcode Problem solving code repo
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dkconnect10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/dkconnect10/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
