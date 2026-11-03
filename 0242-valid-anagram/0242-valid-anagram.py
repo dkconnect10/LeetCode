@@ -1,13 +1,15 @@
-class Solution:    
-    def isAnagram(self, s, t):
-        dict1={}
-        dict2={}
-        
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        if len(s)!=len(t):
+            return False
+        freq = {}
+    
         for i in s:
-            dict1[i]=dict1.get(i,0)+1
+            freq[i]=freq.get(i,0)+1
+            
         for i in t:
-            dict2[i]=dict2.get(i,0)+1 
-
-        if dict1==dict2:
-            return True
-        return False
+            if not freq.get(i):
+                return False
+            freq[i]-=1
+        return True 
+        
