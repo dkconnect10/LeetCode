@@ -32,6 +32,7 @@ This is my Leetcode Problem solving code repo
 | [0875-koko-eating-bananas](https://github.com/dkconnect10/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/dkconnect10/LeetCode/tree/master/1046-last-stone-weight) |
+| [1268-search-suggestions-system](https://github.com/dkconnect10/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dkconnect10/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -87,6 +88,7 @@ This is my Leetcode Problem solving code repo
 | [0692-top-k-frequent-words](https://github.com/dkconnect10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/dkconnect10/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dkconnect10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1268-search-suggestions-system](https://github.com/dkconnect10/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dkconnect10/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dkconnect10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dkconnect10/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -105,6 +107,7 @@ This is my Leetcode Problem solving code repo
 | [0506-relative-ranks](https://github.com/dkconnect10/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/dkconnect10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1268-search-suggestions-system](https://github.com/dkconnect10/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dkconnect10/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -124,6 +127,7 @@ This is my Leetcode Problem solving code repo
 | [0633-sum-of-square-numbers](https://github.com/dkconnect10/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/dkconnect10/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dkconnect10/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/dkconnect10/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
@@ -185,6 +189,7 @@ This is my Leetcode Problem solving code repo
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dkconnect10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/dkconnect10/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1268-search-suggestions-system](https://github.com/dkconnect10/LeetCode/tree/master/1268-search-suggestions-system) |
 ## String Matching
 |  |
 | ------- |
@@ -210,6 +215,7 @@ This is my Leetcode Problem solving code repo
 | [0703-kth-largest-element-in-a-stream](https://github.com/dkconnect10/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/dkconnect10/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/dkconnect10/LeetCode/tree/master/1046-last-stone-weight) |
+| [1268-search-suggestions-system](https://github.com/dkconnect10/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/dkconnect10/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dkconnect10/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
