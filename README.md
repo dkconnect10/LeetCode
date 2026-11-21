@@ -162,6 +162,7 @@ This is my Leetcode Problem solving code repo
 | [0268-missing-number](https://github.com/dkconnect10/LeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/dkconnect10/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/dkconnect10/LeetCode/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/dkconnect10/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/dkconnect10/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/dkconnect10/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/dkconnect10/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
